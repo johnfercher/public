@@ -26,7 +26,7 @@ O objetivo deste repositório é consolidar em um único lugar todas as minhas p
 | [VSS-SDK](https://vss-sdk.github.io/book/general.html) | Projeto opensource que auxilia equipes na construção de times de futebol de robôs | :brazil: |
 | [C++ Boilerplate](https://medium.com/@johnathanfercher) | Casca de projeto em C++ com: Cmake, GoogleTest, TravisCI, Docker e Shellscript | :brazil: |
 | [Event Certificate Gen](https://github.com/GDGPetropolis/event-certificate-gen) | Gerador de certificados de eventos | :brazil: |
-| [Software Literature Review](https://github.com/GDGPetropolis/event-certificate-gen) | Compilado de conteúdos relacionados a Desenvolvimento de Software  | :brazil: |
+| [Software Literature Review](https://github.com/johnfercher/software-literature-review) | Compilado de conteúdos relacionados a Desenvolvimento de Software  | :brazil: |
 | [FAETERJ LaTeX Template](https://github.com/johnfercher/faeterj-latex-template) | Template em LaTeX para TCCs na FAETERJ-Petrópolis  | :brazil: |
 
 # Articles
@@ -39,6 +39,19 @@ O objetivo deste repositório é consolidar em um único lugar todas as minhas p
 | [Construção de um Framework de Planejamento e Controle de Trajetória em Tempo Real de Múltiplos Robôs Terrestres](articles/wtdr.pdf) | :brazil: |
 | [Construção de um Time de Futebol de Robôs Para a Categoria IEEE Very Small Size Soccer](articles/tcc.pdf) | :brazil: |
 | [SIRLab TDPs (Team Description Papers)](articles/tdps) | :brazil: |
+
+# Talks
+
+| Date<br>(mm/yyyy) | Title          | Event | Language |
+|:--------------------:|----------------|:--------:|:--------:|
+| 02/2018 | [Programação Assíncrona e Paralelismo no WebAPI (C#)](presentation/braspag-async.pdf) | Braspag - TechTalk | :brazil: |
+| 09/2018 | [Eliminando Gargalos de Processamento Utilizando Rust](presentation/braspag-rust.pdf) | Braspag - TechTalk | :brazil: |
+| 11/2018 | [Eliminando Gargalos de Processamento Utilizando Rust](presentation/gdg-rust.pdf) | GDG-Petrópolis - Meu Mundo Tecnológico | :brazil: |
+| 05/2018 | [Desafios da Construção de um Time de Futebol de Robôs](presentation/ccomp.pdf) | Unifeso - CCOMP Talks (Robotics) | :brazil: |
+| 05/2018 | [Desafios da Construção de um Time de Futebol de Robôs](presentation/ccomp.pdf) | Unifeso - CCOMP Talks (Robotics) | :brazil: |
+| 01/2017 | [Construção de um Framework de Planejamento e Controle de Trajetória em Tempo Real de Múltiplos Robôs Terrestres](presentation/ccomp.pdf) | IME - Defesa de Mestrado | :brazil: |
+| 10/2017 | [Construction of a Framework of Path Planning and Trajectory Control in Real Time of Multiple Robots](presentation/ccomp.pdf) | WTDR - Workshop on Thesis and Dissertation in Robotics | :us: |
+| 01/2016 | [Planejamento de Trajetória em Tempo Real de Múltiplos Robôs em Ambiente Semi-Estruturado](presentation/ccomp.pdf) | IME - Qualificação Mestrado | :brazil: |
 
 # Volunteer
 | Period<br> (yyyy - yyyy) | Name            | Role  |
