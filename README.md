@@ -30,7 +30,7 @@ O objetivo deste repositório é consolidar em um único lugar todas as minhas p
 | [FAETERJ LaTeX Template](https://github.com/johnfercher/faeterj-latex-template) | Template em LaTeX para TCCs na FAETERJ-Petrópolis  | :brazil: |
 
 # Articles
-| Title |         |  Source  | Language |
+| Title           |  Source  | Language |
 |-----------------|:--------:|:--------:|
 | [MySQL + Docker](https://medium.com/@johnathanfercher/mysql-docker-7ff6d50d6cf1) | Medium | :brazil: |
 | [Modern C++ Development](https://medium.com/@johnathanfercher/modern-c-development-dbe71ee5e969) | Medium | :brazil: |
