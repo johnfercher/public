@@ -30,15 +30,15 @@ O objetivo deste repositório é consolidar em um único lugar todas as minhas p
 | [FAETERJ LaTeX Template](https://github.com/johnfercher/faeterj-latex-template) | Template em LaTeX para TCCs na FAETERJ-Petrópolis  | :brazil: |
 
 # Articles
-| Title | Language |
-|-----------------|:--------:|
-| [MySQL + Docker](https://medium.com/@johnathanfercher/mysql-docker-7ff6d50d6cf1) | :brazil: |
-| [Modern C++ Development](https://medium.com/@johnathanfercher/modern-c-development-dbe71ee5e969) | :brazil: |
-| [O Desespero de Desenvolver Softwares no Mundo Acadêmico](https://medium.com/@johnathanfercher/o-desespero-de-desenvolver-softwares-no-mundo-acad%C3%AAmico-2dc90bd7971a) | :brazil: |
-| [Uma Abordagem Generalista Para o Problema de Planejamento e Controle de Trajetória de Múltiplos Robôs Terrestres em Ambientes Dinâmicos](articles/sbai.pdf) | :brazil: |
-| [Construção de um Framework de Planejamento e Controle de Trajetória em Tempo Real de Múltiplos Robôs Terrestres](articles/wtdr.pdf) | :brazil: |
-| [Construção de um Time de Futebol de Robôs Para a Categoria IEEE Very Small Size Soccer](articles/tcc.pdf) | :brazil: |
-| [SIRLab TDPs (Team Description Papers)](articles/tdps) | :brazil: |
+| Title |         |  Source  | Language |
+|-----------------|:--------:|:--------:|
+| [MySQL + Docker](https://medium.com/@johnathanfercher/mysql-docker-7ff6d50d6cf1) | Medium | :brazil: |
+| [Modern C++ Development](https://medium.com/@johnathanfercher/modern-c-development-dbe71ee5e969) | Medium | :brazil: |
+| [O Desespero de Desenvolver Softwares no Mundo Acadêmico](https://medium.com/@johnathanfercher/o-desespero-de-desenvolver-softwares-no-mundo-acad%C3%AAmico-2dc90bd7971a) | Medium | :brazil: |
+| [Uma Abordagem Generalista Para o Problema de Planejamento e Controle de Trajetória de Múltiplos Robôs Terrestres em Ambientes Dinâmicos](articles/sbai.pdf) | SBAI - Simpósio Brasileiro de Automação Inteligente | :brazil: |
+| [Construção de um Framework de Planejamento e Controle de Trajetória em Tempo Real de Múltiplos Robôs Terrestres](articles/wtdr.pdf) | WTDR - Workshop on Thesis and Dissertation in Robotics | :brazil: |
+| [Construção de um Time de Futebol de Robôs Para a Categoria IEEE Very Small Size Soccer](articles/tcc.pdf) | TCC - FAETERJ-Petrópolis | :brazil: |
+| [SIRLab TDPs (Team Description Papers)](articles/tdps) | LARC - Latin American Robotics Competition | :brazil: |
 
 # Talks
 
