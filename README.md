@@ -44,7 +44,7 @@ O objetivo deste repositório é consolidar em um único lugar todas as minhas p
 
 | Date<br>(mm/yyyy) | Title          | Event | Language |
 |:--------------------:|----------------|:--------:|:--------:|
-| 02/2019 | Faça Muito Mais com Data Science, C# e Rust | Campus Party | :brazil: |
+| 02/2019 | [Faça Muito Mais com Data Science, C# e Rust](https://github.com/johnfercher/cpbr12) | Campus Party | :brazil: |
 | 11/2018 | [Eliminando Gargalos de Processamento Utilizando Rust](presentations/gdg-rust.pdf) | GDG-Petrópolis - Meu Mundo Tecnológico | :brazil: |
 | 09/2018 | [Eliminando Gargalos de Processamento Utilizando Rust](presentations/braspag-rust.pdf) | Braspag - TechTalk | :brazil: |
 | 05/2018 | [Desafios da Construção de um Time de Futebol de Robôs](presentations/ccomp.pdf) | Unifeso - CCOMP Talks (Robotics) | :brazil: |
