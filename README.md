@@ -17,4 +17,4 @@ O objetivo deste repositório é consolidar em um único lugar todas as minhas p
 [![logo](https://cdn3.iconfinder.com/data/icons/social-circle/512/social_8-48.png)](https://twitter.com/john_fercher)
 [![logo](https://cdn3.iconfinder.com/data/icons/social-circle/512/social_7-48.png)](https://www.linkedin.com/in/johnathan-fercher-da-rosa-79013491/)
 [![logo](https://cdn3.iconfinder.com/data/icons/social-circle/512/social_3-48.png)](https://www.facebook.com/johnathan.fercher)
-[![logo](https://cdn0.iconfinder.com/data/icons/picons-social/57/108-medium-48.png)](https://medium.com/@johnathanfercher)
+[![logo](https://cdn0.iconfinder.com/data/icons/social-23/100/social_medium-48.png)](https://medium.com/@johnathanfercher)
