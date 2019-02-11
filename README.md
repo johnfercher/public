@@ -51,3 +51,9 @@ O objetivo deste repositório é consolidar em um único lugar todas as minhas p
 | Date<br>(mm/yyyy) | Title          | Language |
 |:-----------------:|----------------|:--------:|
 | 09/2016 | [VSS-SDK (v1.0.4) - Robot Soccer (IEEE Very Small Size)](https://www.youtube.com/watch?v=2Yo8s7w7rTE) | :brazil: |
+
+# Honors & Awards 
+| Date<br>(mm/yyyy) | Title          |
+|:-----------------:|----------------|
+| 10/2018 | Runner-up Robocup 2D Soccer Simulation League - LARC/CBR |
+| 10/2018 | 4th Place - IEEE Very Small Size Soccer - LARC/CBR |
