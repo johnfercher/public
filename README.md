@@ -21,16 +21,15 @@ O objetivo deste repositório é consolidar em um único lugar todas as minhas p
 [![logo](https://cdn0.iconfinder.com/data/icons/social-23/100/social_medium-48.png)](https://medium.com/@johnathanfercher)
 
 # Initiatives
-
 | Initiative Name | Focus | Language |
 |-----------------|-------|:--------:|
 | [VSS-SDK](https://vss-sdk.github.io/book/general.html) | Projeto opensource que auxilia equipes na construção de times de futebol de robôs | :brazil: |
 | [C++ Boilerplate](https://medium.com/@johnathanfercher) | Casca de projeto em C++ com: Cmake, GoogleTest, TravisCI, Docker e Shellscript | :brazil: |
 | [Event Certificate Gen](https://github.com/GDGPetropolis/event-certificate-gen) | Gerador de certificados de eventos | :brazil: |
 | [Software Literature Review](https://github.com/GDGPetropolis/event-certificate-gen) | Compilado de conteúdos relacionados a Desenvolvimento de Software  | :brazil: |
+| [FAETERJ LaTeX Template](https://github.com/johnfercher/faeterj-latex-template) | Template em LaTeX para TCCs na FAETERJ-Petrópolis  | :brazil: |
 
 # Articles
-
 | Title | Language |
 |-----------------|:--------:|
 | [MySQL + Docker](https://medium.com/@johnathanfercher/mysql-docker-7ff6d50d6cf1) | :brazil: |
@@ -41,9 +40,7 @@ O objetivo deste repositório é consolidar em um único lugar todas as minhas p
 | [Construção de um Time de Futebol de Robôs Para a Categoria IEEE Very Small Size Soccer](articles/tcc.pdf) | :brazil: |
 
 
-
 # Volunteer
-
 | Period<br> (yyyy - yyyy) | Name            | Role  |
 |:--------------------:|------------------|:-----:|
 | 2013 - Nowadays | [SIRLab - Laboratório de Sistemas Inteligentes e Robótica](http://sirlab.github.io/) | Member |
@@ -51,7 +48,6 @@ O objetivo deste repositório é consolidar em um único lugar todas as minhas p
 | 2018 - Nowadays | [Google Developers Group - Petrópolis](https://gdgpetropolis.github.io/) | Member |
 
 # Videos
-
 | Date<br>(mm/yyyy) | Title          | Language |
 |:-----------------:|----------------|:--------:|
 | 09/2016 | [VSS-SDK (v1.0.4) - Robot Soccer (IEEE Very Small Size)](https://www.youtube.com/watch?v=2Yo8s7w7rTE) | :brazil: |
