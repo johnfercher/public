@@ -38,3 +38,17 @@ O objetivo deste repositório é consolidar em um único lugar todas as minhas p
 | [O Desespero de Desenvolver Softwares no Mundo Acadêmico](https://medium.com/@johnathanfercher/o-desespero-de-desenvolver-softwares-no-mundo-acad%C3%AAmico-2dc90bd7971a) | :brazil: |
 | [Modern C++ Development](https://medium.com/@johnathanfercher/modern-c-development-dbe71ee5e969) | :brazil: |
 | [MySQL + Docker](https://medium.com/@johnathanfercher/mysql-docker-7ff6d50d6cf1) | :brazil: |
+
+# Volunteer
+
+| Date<br>(dd/mm/yyyy) | Name            | Role  |
+|:--------------------:|------------------|:-----:|
+| 2013 - Nowadays | [SIRLab - Laboratório de Sistemas Inteligentes e Robótica](http://sirlab.github.io/) | Member |
+| 2014, 2015, 2016, 2017 | [Olímpíada Brasileira de Robótica](http://sirlab.github.io/) | Judge |
+| 2018 - Nowadays | [Google Developers Group - Petrópolis](https://gdgpetropolis.github.io/) | Member |
+
+# Videos
+
+| Date<br>(mm/yyyy) | Title          | Language |
+|:-----------------:|----------------|:--------:|
+| 09/2016 | [VSS-SDK (v1.0.4) - Robot Soccer (IEEE Very Small Size)](https://www.youtube.com/watch?v=2Yo8s7w7rTE) | :us: |
