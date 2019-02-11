@@ -1,1 +1,3 @@
-# public
+# :us: Resume
+
+# :brazil: Currículo
