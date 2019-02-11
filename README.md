@@ -38,7 +38,7 @@ O objetivo deste repositório é consolidar em um único lugar todas as minhas p
 | [Uma Abordagem Generalista Para o Problema de Planejamento e Controle de Trajetória de Múltiplos Robôs Terrestres em Ambientes Dinâmicos](articles/sbai.pdf) | :brazil: |
 | [Construção de um Framework de Planejamento e Controle de Trajetória em Tempo Real de Múltiplos Robôs Terrestres](articles/wtdr.pdf) | :brazil: |
 | [Construção de um Time de Futebol de Robôs Para a Categoria IEEE Very Small Size Soccer](articles/tcc.pdf) | :brazil: |
-
+| [SIRLab TDPs (Team Description Papers)](articles/tdps) | :brazil: |
 
 # Volunteer
 | Period<br> (yyyy - yyyy) | Name            | Role  |
