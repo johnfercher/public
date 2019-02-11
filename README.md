@@ -44,14 +44,13 @@ O objetivo deste repositório é consolidar em um único lugar todas as minhas p
 
 | Date<br>(mm/yyyy) | Title          | Event | Language |
 |:--------------------:|----------------|:--------:|:--------:|
-| 02/2018 | [Programação Assíncrona e Paralelismo no WebAPI (C#)](presentation/braspag-async.pdf) | Braspag - TechTalk | :brazil: |
-| 09/2018 | [Eliminando Gargalos de Processamento Utilizando Rust](presentation/braspag-rust.pdf) | Braspag - TechTalk | :brazil: |
-| 11/2018 | [Eliminando Gargalos de Processamento Utilizando Rust](presentation/gdg-rust.pdf) | GDG-Petrópolis - Meu Mundo Tecnológico | :brazil: |
-| 05/2018 | [Desafios da Construção de um Time de Futebol de Robôs](presentation/ccomp.pdf) | Unifeso - CCOMP Talks (Robotics) | :brazil: |
-| 05/2018 | [Desafios da Construção de um Time de Futebol de Robôs](presentation/ccomp.pdf) | Unifeso - CCOMP Talks (Robotics) | :brazil: |
-| 01/2017 | [Construção de um Framework de Planejamento e Controle de Trajetória em Tempo Real de Múltiplos Robôs Terrestres](presentation/ccomp.pdf) | IME - Defesa de Mestrado | :brazil: |
-| 10/2017 | [Construction of a Framework of Path Planning and Trajectory Control in Real Time of Multiple Robots](presentation/ccomp.pdf) | WTDR - Workshop on Thesis and Dissertation in Robotics | :us: |
-| 01/2016 | [Planejamento de Trajetória em Tempo Real de Múltiplos Robôs em Ambiente Semi-Estruturado](presentation/ccomp.pdf) | IME - Qualificação Mestrado | :brazil: |
+| 02/2018 | [Programação Assíncrona e Paralelismo no WebAPI (C#)](presentations/braspag-async.pdf) | Braspag - TechTalk | :brazil: |
+| 09/2018 | [Eliminando Gargalos de Processamento Utilizando Rust](presentations/braspag-rust.pdf) | Braspag - TechTalk | :brazil: |
+| 11/2018 | [Eliminando Gargalos de Processamento Utilizando Rust](presentations/gdg-rust.pdf) | GDG-Petrópolis - Meu Mundo Tecnológico | :brazil: |
+| 05/2018 | [Desafios da Construção de um Time de Futebol de Robôs](presentations/ccomp.pdf) | Unifeso - CCOMP Talks (Robotics) | :brazil: |
+| 01/2017 | [Construção de um Framework de Planejamento e Controle de Trajetória em Tempo Real de Múltiplos Robôs Terrestres](presentations/master-defense.pdf) | IME - Defesa de Mestrado | :brazil: |
+| 10/2017 | [Construction of a Framework of Path Planning and Trajectory Control in Real Time of Multiple Robots](presentations/wtdr.pdf) | WTDR - Workshop on Thesis and Dissertation in Robotics | :us: |
+| 01/2016 | [Planejamento de Trajetória em Tempo Real de Múltiplos Robôs em Ambiente Semi-Estruturado](presentations/master-qualification.pdf) | IME - Qualificação Mestrado | :brazil: |
 
 # Volunteer
 | Period<br> (yyyy - yyyy) | Name            | Role  |
