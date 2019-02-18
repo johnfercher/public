@@ -15,10 +15,12 @@ O objetivo deste repositório é consolidar em um único lugar todas as minhas p
 * [English :us:](resume/english.pdf)
 
 # My Social Networks
-[![logo](https://cdn0.iconfinder.com/data/icons/social-23/100/social_twitter-48.png)](https://twitter.com/john_fercher)
 [![logo](https://cdn0.iconfinder.com/data/icons/social-23/100/social_linked_in-48.png)](https://www.linkedin.com/in/johnathan-fercher-da-rosa-79013491/)
-[![logo](https://cdn0.iconfinder.com/data/icons/social-23/100/social_facebook-48.png)](https://www.facebook.com/johnathan.fercher)
+[![logo](https://cdn0.iconfinder.com/data/icons/social-23/100/social_github-48.png)](https://github.com/johnfercher)
 [![logo](https://cdn0.iconfinder.com/data/icons/social-23/100/social_medium-48.png)](https://medium.com/@johnathanfercher)
+[![logo](https://cdn0.iconfinder.com/data/icons/social-23/100/social_twitter-48.png)](https://twitter.com/john_fercher)
+[![logo](https://cdn0.iconfinder.com/data/icons/social-23/100/social_facebook-48.png)](https://www.facebook.com/johnathan.fercher)
+[![logo](https://cdn0.iconfinder.com/data/icons/social-23/100/social_instagram-48.png)](https://www.instagram.com/john_fercher)
 
 # Initiatives
 | Initiative Name | Focus | Language |
