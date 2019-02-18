@@ -26,7 +26,7 @@ O objetivo deste repositório é consolidar em um único lugar todas as minhas p
 | Initiative Name | Focus | Language |
 |-----------------|-------|:--------:|
 | [VSS-SDK](https://vss-sdk.github.io/book/general.html) | Projeto opensource que auxilia equipes na construção de times de futebol de robôs | :brazil: |
-| [C++ Boilerplate](https://medium.com/@johnathanfercher) | Casca de projeto em C++ com: Cmake, GoogleTest, TravisCI, Docker e Shellscript | :brazil: |
+| [C++ Boilerplate](https://github.com/johnfercher/boilerplate) | Casca de projeto em C++ com: Cmake, GoogleTest, TravisCI, Docker e Shellscript | :brazil: |
 | [Event Certificate Gen](https://github.com/GDGPetropolis/event-certificate-gen) | Gerador de certificados de eventos | :brazil: |
 | [Software Literature Review](https://github.com/johnfercher/software-literature-review) | Compilado de conteúdos relacionados a Desenvolvimento de Software  | :brazil: |
 | [FAETERJ LaTeX Template](https://github.com/johnfercher/faeterj-latex-template) | Template em LaTeX para TCCs na FAETERJ-Petrópolis  | :brazil: |
