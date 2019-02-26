@@ -66,6 +66,7 @@ O objetivo deste repositório é consolidar em um único lugar todas as minhas p
 | Date<br>(mm/yyyy) | Title          | Language |
 |:-----------------:|----------------|:--------:|
 | 09/2016 | [VSS-SDK (v1.0.4) - Robot Soccer (IEEE Very Small Size)](https://www.youtube.com/watch?v=2Yo8s7w7rTE) | :brazil: |
+| 11/2016 | [Multiple Path Planning](https://www.youtube.com/watch?v=hC82QWQrvUo) | :brazil: |
 
 # Honors & Awards 
 | Date<br>(mm/yyyy) | Title          |
