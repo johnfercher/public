@@ -30,9 +30,9 @@ O objetivo deste repositório é consolidar em um único lugar todas as minhas p
 | [Event Certificate Gen (creator)](https://github.com/GDGPetropolis/event-certificate-gen) | Gerador de certificados de eventos | :brazil: |
 | [Software Development (creator)](https://johnfercher.github.io/software-development/) | Compilado de conteúdos relacionados a Desenvolvimento de Software  | :brazil: |
 | [FAETERJ LaTeX Template (creator)](https://github.com/johnfercher/faeterj-latex-template) | Template em LaTeX para TCCs na FAETERJ-Petrópolis  | :brazil: |
-| [rathena (contributor)](https://github.com/rathena/rathena) | rAthena is an open-source cross-platform MMORPG server. | :us: |
-| [rust-protobuf (contributor)](https://github.com/stepancheg/rust-protobuf) | Rust implementation of Google protocol buffers. | :us: |
-| [tiberius (contributor)](https://github.com/steffengy/tiberius) |  TDS 7.4 (mssql / Microsoft SQL Server) async driver for rust. | :us: |
+| [rathena (contributor)](https://github.com/rathena/rathena) | rAthena is an open-source cross-platform MMORPG server | :us: |
+| [rust-protobuf (contributor)](https://github.com/stepancheg/rust-protobuf) | Rust implementation of Google protocol buffers | :us: |
+| [tiberius (contributor)](https://github.com/steffengy/tiberius) |  TDS 7.4 (mssql / Microsoft SQL Server) async driver for rust | :us: |
 | [OpenGL sample application with imgui support (contributor)](https://github.com/valera-rozuvan/opengl-sample-with-imgui) | OpenGL sample application with imgui support | :us: |
 
 # Articles
