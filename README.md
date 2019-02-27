@@ -22,14 +22,18 @@ O objetivo deste repositório é consolidar em um único lugar todas as minhas p
 [![logo](https://cdn0.iconfinder.com/data/icons/social-23/100/social_facebook-48.png)](https://www.facebook.com/johnathan.fercher)
 [![logo](https://cdn0.iconfinder.com/data/icons/social-23/100/social_instagram-48.png)](https://www.instagram.com/john_fercher)
 
-# Initiatives
+# Open Source Contributions
 | Initiative Name | Focus | Language |
 |-----------------|-------|:--------:|
-| [VSS-SDK](https://vss-sdk.github.io/book/general.html) | Projeto opensource que auxilia equipes na construção de times de futebol de robôs | :brazil: |
-| [C++ Boilerplate](https://github.com/johnfercher/boilerplate) | Casca de projeto em C++ com: Cmake, GoogleTest, TravisCI, Docker e Shellscript | :brazil: |
-| [Event Certificate Gen](https://github.com/GDGPetropolis/event-certificate-gen) | Gerador de certificados de eventos | :brazil: |
-| [Software Development](https://johnfercher.github.io/software-development/) | Compilado de conteúdos relacionados a Desenvolvimento de Software  | :brazil: |
-| [FAETERJ LaTeX Template](https://github.com/johnfercher/faeterj-latex-template) | Template em LaTeX para TCCs na FAETERJ-Petrópolis  | :brazil: |
+| [VSS-SDK (creator)](https://vss-sdk.github.io/book/general.html) | Projeto opensource que auxilia equipes na construção de times de futebol de robôs | :brazil: |
+| [C++ Boilerplate (creator)](https://github.com/johnfercher/boilerplate) | Casca de projeto em C++ com: Cmake, GoogleTest, TravisCI, Docker e Shellscript | :brazil: |
+| [Event Certificate Gen (creator)](https://github.com/GDGPetropolis/event-certificate-gen) | Gerador de certificados de eventos | :brazil: |
+| [Software Development (creator)](https://johnfercher.github.io/software-development/) | Compilado de conteúdos relacionados a Desenvolvimento de Software  | :brazil: |
+| [FAETERJ LaTeX Template (creator)](https://github.com/johnfercher/faeterj-latex-template) | Template em LaTeX para TCCs na FAETERJ-Petrópolis  | :brazil: |
+| [rathena (contributor)](https://github.com/rathena/rathena) | rAthena is an open-source cross-platform MMORPG server. | :us: |
+| [rust-protobuf (contributor)](https://github.com/stepancheg/rust-protobuf) | Rust implementation of Google protocol buffers. | :us: |
+| [tiberius (contributor)](https://github.com/steffengy/tiberius) |  TDS 7.4 (mssql / Microsoft SQL Server) async driver for rust. | :us: |
+| [OpenGL sample application with imgui support (contributor)](https://github.com/valera-rozuvan/opengl-sample-with-imgui) | OpenGL sample application with imgui support | :us: |
 
 # Articles
 | Title           |  Source  | Language |
