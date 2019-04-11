@@ -21,6 +21,7 @@ O objetivo deste repositório é consolidar em um único lugar todas as minhas p
 [![logo](https://cdn0.iconfinder.com/data/icons/social-23/100/social_twitter-48.png)](https://twitter.com/john_fercher)
 [![logo](https://cdn0.iconfinder.com/data/icons/social-23/100/social_facebook-48.png)](https://www.facebook.com/johnathan.fercher)
 [![logo](https://cdn0.iconfinder.com/data/icons/social-23/100/social_instagram-48.png)](https://www.instagram.com/john_fercher)
+[![logo](https://cdn0.iconfinder.com/data/icons/social-23/100/social_youtube-48.png)](https://www.youtube.com/channel/UCXF_NnUPJfJJdKrx5xbFKOg)
 
 # Open Source Contributions
 | Initiative Name | Focus | Language |
@@ -39,6 +40,7 @@ O objetivo deste repositório é consolidar em um único lugar todas as minhas p
 # Articles
 | Title           |  Source  | Language |
 |-----------------|:--------:|:--------:|
+| [Gource Visualization](https://medium.com/@johnathanfercher/gource-visualization-6da173d103ef) | Medium | :brazil: |
 | [mdBook: Uma Ferramenta Para Criar Documentações Utilizando Markdown](https://medium.com/@johnathanfercher/mdbook-uma-ferramenta-para-criar-documenta%C3%A7%C3%B5es-utilizando-markdown-c30c9dfa5c9f) | Medium | :brazil: |
 | [MySQL + Docker](https://medium.com/@johnathanfercher/mysql-docker-7ff6d50d6cf1) | Medium | :brazil: |
 | [Modern C++ Development](https://medium.com/@johnathanfercher/modern-c-development-dbe71ee5e969) | Medium | :brazil: |
