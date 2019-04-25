@@ -36,6 +36,7 @@ O objetivo deste repositório é consolidar em um único lugar todas as minhas p
 | [rust-protobuf (contributor)](https://github.com/stepancheg/rust-protobuf) | Rust implementation of Google protocol buffers | :us: |
 | [tiberius (contributor)](https://github.com/steffengy/tiberius) |  TDS 7.4 (mssql / Microsoft SQL Server) async driver for rust | :us: |
 | [OpenGL sample application with imgui support (contributor)](https://github.com/valera-rozuvan/opengl-sample-with-imgui) | OpenGL sample application with imgui support | :us: |
+| [gitignore.io (contributor)](https://github.com/dvcs/gitignore) | The largest collection of useful .gitignore templates https://www.gitignore.io | :us: |
 
 # Articles
 | Title           |  Source  | Language |
@@ -51,7 +52,6 @@ O objetivo deste repositório é consolidar em um único lugar todas as minhas p
 | [SIRLab TDPs (Team Description Papers)](articles/tdps) | LARC - Latin American Robotics Competition | :brazil: |
 
 # Talks
-
 | Date<br>(mm/yyyy) | Title          | Event | Language |
 |:--------------------:|----------------|:--------:|:--------:|
 | 02/2019 | [Faça Muito Mais com Data Science, C# e Rust](https://github.com/johnfercher/cpbr12) | Campus Party | :brazil: |
