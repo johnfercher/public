@@ -40,7 +40,7 @@ O objetivo deste repositório é consolidar em um único lugar todas as minhas p
 | Initiative Name | Focus | Language |
 |-----------------|-------|:--------:|
 | [VSS-SDK (creator)](https://vss-sdk.github.io/book/general.html) | Projeto opensource que auxilia equipes na construção de times de futebol de robôs | :brazil: |
-| [Maroto (creator)](https://github.com/johnfercher/public) | Projeto opensource para criar PDFs em Go de forma simples. Maroto é baseado em Bootstrap e utiliza Gofpdf. | :us: |
+| [Maroto (creator)](https://github.com/johnfercher/maroto) | A maroto way to create PDFs. Maroto is inspired in Bootstrap and uses gofpdf. Fast and simple. | :us: |
 | [C++ Boilerplate (creator)](https://github.com/johnfercher/boilerplate) | Casca de projeto em C++ com: Cmake, GoogleTest, TravisCI, Docker e Shellscript | :us: |
 | [Event Certificate Gen (creator)](https://github.com/GDGPetropolis/event-certificate-gen) | Gerador de certificados de eventos | :us: |
 | [Software Development (creator)](https://johnfercher.github.io/software-development/) | Compilado de conteúdos relacionados a Desenvolvimento de Software  | :brazil: |
