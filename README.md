@@ -40,6 +40,7 @@ O objetivo deste repositório é consolidar em um único lugar todas as minhas p
 | Initiative Name | Focus | Language |
 |-----------------|-------|:--------:|
 | [VSS-SDK (creator)](https://vss-sdk.github.io/book/general.html) | Projeto opensource que auxilia equipes na construção de times de futebol de robôs | :brazil: |
+| [Maroto (creator)](https://github.com/johnfercher/public) | Projeto opensource para criar PDFs em Go de forma simples. Maroto é baseado em Bootstrap e utiliza Gofpdf. | :brazil: |
 | [C++ Boilerplate (creator)](https://github.com/johnfercher/boilerplate) | Casca de projeto em C++ com: Cmake, GoogleTest, TravisCI, Docker e Shellscript | :brazil: |
 | [Event Certificate Gen (creator)](https://github.com/GDGPetropolis/event-certificate-gen) | Gerador de certificados de eventos | :brazil: |
 | [Software Development (creator)](https://johnfercher.github.io/software-development/) | Compilado de conteúdos relacionados a Desenvolvimento de Software  | :brazil: |
@@ -54,6 +55,7 @@ O objetivo deste repositório é consolidar em um único lugar todas as minhas p
 # Articles
 | Title           |  Source  | Language |
 |-----------------|:--------:|:--------:|
+| [Esquisitices de Go: Nil != Nil e mais umas coisas](https://medium.com/@johnathanfercher/esquisitices-de-go-a52548d1334f) | Medium | :brazil: |
 | [Gource Visualization](https://medium.com/@johnathanfercher/gource-visualization-6da173d103ef) | Medium | :brazil: |
 | [mdBook: Uma Ferramenta Para Criar Documentações Utilizando Markdown](https://medium.com/@johnathanfercher/mdbook-uma-ferramenta-para-criar-documenta%C3%A7%C3%B5es-utilizando-markdown-c30c9dfa5c9f) | Medium | :brazil: |
 | [MySQL + Docker](https://medium.com/@johnathanfercher/mysql-docker-7ff6d50d6cf1) | Medium | :brazil: |
