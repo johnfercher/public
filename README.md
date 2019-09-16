@@ -57,6 +57,7 @@ O objetivo deste repositório é consolidar em um único lugar todas as minhas p
 # Articles
 | Title           |  Source  | Language |
 |-----------------|:--------:|:--------:|
+| [Creating PDFs using Golang: The maroto project. Simple & fast. Bootstrap like.](https://medium.com/@johnathanfercher/creating-pdfs-using-golang-98b722e99d6d) | Medium | :us: |
 | [Esquisitices de Go: Nil != Nil e mais umas coisas](https://medium.com/@johnathanfercher/esquisitices-de-go-a52548d1334f) | Medium | :brazil: |
 | [Gource Visualization](https://medium.com/@johnathanfercher/gource-visualization-6da173d103ef) | Medium | :brazil: |
 | [mdBook: Uma Ferramenta Para Criar Documentações Utilizando Markdown](https://medium.com/@johnathanfercher/mdbook-uma-ferramenta-para-criar-documenta%C3%A7%C3%B5es-utilizando-markdown-c30c9dfa5c9f) | Medium | :brazil: |
@@ -73,7 +74,7 @@ O objetivo deste repositório é consolidar em um único lugar todas as minhas p
 | Period<br> (yyyy - yyyy) | Name            | Role  |
 |:--------------------:|------------------|:-----:|
 | 2018 - Nowadays | [Google Developers Group - Petrópolis](https://gdgpetropolis.github.io/) | Member |
-| 2013 - Nowadays | [SIRLab - Laboratório de Sistemas Inteligentes e Robótica](http://sirlab.github.io/) | Member |
+| 2013 - 2018 | [SIRLab - Laboratório de Sistemas Inteligentes e Robótica](http://sirlab.github.io/) | Member |
 | 2014 - 2017 | [Olímpíada Brasileira de Robótica](http://www.obr.org.br/) | Judge |
 
 # Videos
