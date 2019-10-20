@@ -28,6 +28,7 @@ O objetivo deste repositório é consolidar em um único lugar todas as minhas p
 # Talks
 | Date<br>(mm/yyyy) | Title          | Event | Language |
 |:--------------------:|----------------|:--------:|:--------:|
+| 10/2019 | [Uma nova forma simples, elegante e rápida de criar PDFs em GO](presentations/devfest-sul.pdf) | GDG - DevFest - SUL | :brazil: |
 | 04/2019 | [Criando um Time de Futebol de Robôs com Python](presentations/tdc-python/robotics.pdf) | The Developer's Conference | :brazil: |
 | 02/2019 | [Faça Muito Mais com Data Science, C# e Rust](https://github.com/johnfercher/cpbr12) | Campus Party | :brazil: |
 | 11/2018 | [Eliminando Gargalos de Processamento Utilizando Rust](presentations/gdg-rust.pdf) | GDG-Petrópolis - Meu Mundo Tecnológico | :brazil: |
@@ -48,6 +49,7 @@ O objetivo deste repositório é consolidar em um único lugar todas as minhas p
 | [Software Development (creator)](https://johnfercher.github.io/software-development/) | Compilado de conteúdos relacionados a Desenvolvimento de Software  | :brazil: |
 | [FAETERJ LaTeX Template (creator)](https://github.com/johnfercher/faeterj-latex-template) | Template em LaTeX para TCCs na FAETERJ-Petrópolis  | :brazil: |
 | [GDG/Meetup Event-Checkin (creator)](https://github.com/GDGPetropolis/compose-event-checkin) | Sistema de check-in em eventos baseado na API do Meetup  | :brazil: |
+| [awesome-go (contributor)](https://github.com/avelino/awesome-go) | A curated list of awesome Go frameworks, libraries and software | :us: |
 | [rathena (contributor)](https://github.com/rathena/rathena) | rAthena is an open-source cross-platform MMORPG server | :us: |
 | [rust-protobuf (contributor)](https://github.com/stepancheg/rust-protobuf) | Rust implementation of Google protocol buffers | :us: |
 | [tiberius (contributor)](https://github.com/steffengy/tiberius) |  TDS 7.4 (mssql / Microsoft SQL Server) async driver for rust | :us: |
@@ -73,7 +75,7 @@ O objetivo deste repositório é consolidar em um único lugar todas as minhas p
 # Volunteer
 | Period<br> (yyyy - yyyy) | Name            | Role  |
 |:--------------------:|------------------|:-----:|
-| 2018 - Nowadays | [Google Developers Group - Petrópolis](https://gdgpetropolis.github.io/) | Member |
+| 2018 - 2019 | [Google Developers Group - Petrópolis](https://gdgpetropolis.github.io/) | Member |
 | 2013 - 2018 | [SIRLab - Laboratório de Sistemas Inteligentes e Robótica](http://sirlab.github.io/) | Member |
 | 2014 - 2017 | [Olímpíada Brasileira de Robótica](http://www.obr.org.br/) | Judge |
 
