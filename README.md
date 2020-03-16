@@ -28,6 +28,7 @@ O objetivo deste repositório é consolidar em um único lugar todas as minhas p
 # Talks
 | Date<br>(mm/yyyy) | Title          | Event | Language |
 |:--------------------:|----------------|:--------:|:--------:|
+| 01/2020 | [Datadog in Taxes/TMS](presentations/melitechday-datadog.pdf) | Mercado Livre - MeliTechDay | :brazil: |
 | 10/2019 | [Uma nova forma simples, elegante e rápida de criar PDFs em GO](presentations/devfest-sul.pdf) | GDG - DevFest - SUL | :brazil: |
 | 04/2019 | [Criando um Time de Futebol de Robôs com Python](presentations/tdc-python/robotics.pdf) | The Developer's Conference | :brazil: |
 | 02/2019 | [Faça Muito Mais com Data Science, C# e Rust](https://github.com/johnfercher/cpbr12) | Campus Party | :brazil: |
